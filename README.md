@@ -8,15 +8,23 @@ I am currently dedicating my efforts to building a specialized web scraping tool
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,nodejs,react" height="40" alt="javascript, nodejs, react" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white&height=40" height="40" alt="GSAP" />
 </div>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp" height="40" alt="python, fastapi, c++" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,matlab" height="40" alt="python, fastapi, c++, matlab" />
 </div>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux,vscode,figma" height="40" alt="linux, vscode, figma" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white&height=40" height="40" alt="Cisco Packet Tracer" />
+</div>
+
+## 🌱 Focused on Learning
+
+> Expanding my skills in low-level programming to build performant **Terminal User Interfaces (TUIs)** on Linux.
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=rust,c,python" height="40" alt="rust, c, python" />
 </div>
 
 ## Currently Working On
