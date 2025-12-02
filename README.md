@@ -4,7 +4,7 @@ I am a Telematic Engineer based in Mexico. My core strength lies in software dev
 
 I am currently dedicating my efforts to building a specialized web scraping tool.
 
-## Tech Stack & Tools
+## ⚙️ Tech Stack & Tools
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,nodejs,react" height="40" alt="javascript, nodejs, react" />
@@ -27,11 +27,11 @@ I am currently dedicating my efforts to building a specialized web scraping tool
   <img src="https://skillicons.dev/icons?i=rust,c,python" height="40" alt="rust, c, python" />
 </div>
 
-## Currently Working On
+## 🛠️ Currently Working On
 
 * **Scr4per**: [https://github.com/Fernandogf021207/Scr4per](https://github.com/Fernandogf021207/Scr4per)
 
-## Contact
+## 📧 Contact
 
 You can contact me through the following channels:
 
