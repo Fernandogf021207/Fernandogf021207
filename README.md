@@ -7,31 +7,28 @@ I am currently dedicating my efforts to building a specialized web scraping tool
 ## ⚙️ Tech Stack & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react" height="40" alt="javascript, nodejs, react" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,python,fastapi,cpp,matlab,mysql,postgres,supabase,vercel" height="40" alt="tech stack" />
 </div>
+<br/>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,matlab" height="40" alt="python, fastapi, c++, matlab" />
-</div>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,figma" height="40" alt="linux, vscode, figma" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,figma" height="40" alt="tools" />
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white&height=40" height="40" alt="Cisco Packet Tracer" />
 </div>
 
 ## 🌱 Focused on Learning
 
-> Expanding my skills in low-level programming to build performant **Terminal User Interfaces (TUIs)** on Linux.
+> I am currently focused on mastering **JavaScript, Rust, and Cloud (AWS)** for **AndarXCDMX**, a project dedicated to sustainable mobility with blockchain-based rewards.
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=rust,c,python" height="40" alt="rust, c, python" />
+  <img src="https://skillicons.dev/icons?i=js,rust,aws" height="40" alt="learning stack" />
 </div>
 
 ## 🛠️ Currently Working On
 
 * **Scr4per**: [https://github.com/Fernandogf021207/Scr4per](https://github.com/Fernandogf021207/Scr4per)
 
-## 📧 Contact
+## ✉️ Contact
 
 You can contact me through the following channels:
 
